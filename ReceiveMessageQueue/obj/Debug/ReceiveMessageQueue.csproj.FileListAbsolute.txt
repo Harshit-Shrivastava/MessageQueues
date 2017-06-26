@@ -1,0 +1,6 @@
+C:\Personal\Projects\MessageQueues\ReceiveMessageQueue\bin\Debug\ReceiveMessageQueue.exe.config
+C:\Personal\Projects\MessageQueues\ReceiveMessageQueue\bin\Debug\ReceiveMessageQueue.exe
+C:\Personal\Projects\MessageQueues\ReceiveMessageQueue\bin\Debug\ReceiveMessageQueue.pdb
+C:\Personal\Projects\MessageQueues\ReceiveMessageQueue\obj\Debug\ReceiveMessageQueue.exe
+C:\Personal\Projects\MessageQueues\ReceiveMessageQueue\obj\Debug\ReceiveMessageQueue.pdb
+C:\Personal\Projects\MessageQueues\ReceiveMessageQueue\obj\Debug\ReceiveMessageQueue.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Personal\Projects\MessageQueues\SendMessageQueue\bin\Debug\SendMessageQueue.exe.config
+C:\Personal\Projects\MessageQueues\SendMessageQueue\bin\Debug\SendMessageQueue.exe
+C:\Personal\Projects\MessageQueues\SendMessageQueue\bin\Debug\SendMessageQueue.pdb
+C:\Personal\Projects\MessageQueues\SendMessageQueue\obj\Debug\SendMessageQueue.exe
+C:\Personal\Projects\MessageQueues\SendMessageQueue\obj\Debug\SendMessageQueue.pdb
+C:\Personal\Projects\MessageQueues\SendMessageQueue\bin\Debug\Microsoft.SqlServer.MSMQTask.dll
+C:\Personal\Projects\MessageQueues\SendMessageQueue\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Personal\Projects\MessageQueues\SendMessageQueue\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Personal\Projects\MessageQueues\SendMessageQueue\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Personal\Projects\MessageQueues\SendMessageQueue\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Personal\Projects\MessageQueues\SendMessageQueue\obj\Debug\SendMessageQueue.csprojResolveAssemblyReference.cache
